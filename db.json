@@ -1,0 +1,16 @@
+{
+  "mybooks": [
+    {
+      "title": "SOOLEY",
+      "author": "John Grisham",
+      "summary": "Samuel Sooleymon receives a basketball scholarship to North Carolina Central and determines to bring his family over from a civil war-ravaged South Sudan.",
+      "id": 1
+    },
+    {
+      "title": "A GAMBLING MAN",
+      "author": "David Baldacci",
+      "summary": "Aloysius Archer, a World War II veteran, seeks to apprentice with Willie Dash, a private eye, in a corrupt California town.",
+      "id": 2
+    }
+  ]
+}
