@@ -1,3 +1,12 @@
+Jake Houston
+Project 2
+5/9/21
+
+NYT Books App allows the user to browse the day's fiction and nonfiction bestsellers, search for a book by title or author, and curate a reading list of titles.
+
+
+------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
