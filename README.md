@@ -2,7 +2,7 @@ Jake Houston
 Project 2
 5/9/21
 
-NYT Books App allows the user to browse the day's fiction and nonfiction bestsellers, search for a book by title or author, and curate a reading list of titles.
+NYT Books App allows the user to browse the day's fiction and nonfiction bestsellers, search for a book by title or author, and curate a reading list of titles. On the Home page, the user can add a book from the bestsellers list to their reading list. On the Search page, the user can search for books by title or author and add them to their reading list. (Due to the limitations of the NYT Books API, the exact title or full name of the author must be entered, non-case-sensitive.) The My Books page allows the user to see their saved titles and delete them from their list if they so choose.
 
 
 ------------------------------------------------------------------------
